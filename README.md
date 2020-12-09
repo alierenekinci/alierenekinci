@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Ali Eren, 21 years old. 
+#### Data Scientist Candidate
+https://www.alierenekinci.com
+
 
 <!--
 **alierenekinci/alierenekinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
