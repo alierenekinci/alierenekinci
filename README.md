@@ -2,6 +2,8 @@
 I am Ali Eren, 21 years old.
 🌱 I’m currently learning Python.
 #### Data Scientist Candidate
+https://www.alierenekinci.com
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=alierenekinci&show_icons=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alierenekinci" alt="alierenekinci" /> </p>
 
@@ -15,20 +17,3 @@ I am Ali Eren, 21 years old.
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alierenekinci)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alierenekinci/)
 [![Mail Badge](https://img.shields.io/badge/mralierenekinci@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mralierenekinci@gmail.com)](mailto:mralierenekinci@gmail.com)
-
-
-<!--
-**alierenekinci/alierenekinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
