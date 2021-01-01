@@ -2,11 +2,8 @@
 I am Ali Eren, 21 years old.
 🌱 I’m currently learning Python.
 #### Data Scientist Candidate
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=alierenekinci&show_icons=true">
-
-
 https://www.alierenekinci.com
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=alierenekinci&show_icons=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alierenekinci" alt="alierenekinci" /> </p>
 [![](https://img.shields.io/twitter/follow/aliereneknci?style=social)](https://www.twitter.com/aliereneknci)
 [![](https://img.shields.io/github/followers/alierenekinci?style=social)](https://www.github.com/alierenekinci)
