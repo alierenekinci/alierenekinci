@@ -1,7 +1,9 @@
 <img src="https://www.alierenekinci.com/wp-content/uploads/2020/07/Header.jpg" alt="alierenekinci"/>
+
 ### Hi there 👋
 I am Ali Eren, 21 years old.
 🌱 I’m currently learning Python.
+
 #### Data Scientist Candidate
 https://www.alierenekinci.com
 
