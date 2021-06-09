@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ali Eren
-
+![](img/banner.jpeg)
 ## Scripting & Programming Language Skills
 * Python, R
 * SQL
