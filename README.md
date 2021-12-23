@@ -29,9 +29,19 @@
 - [x] Matplotlib
 - [x] Seaborn
 - [x] Pandas
-- [ ] Sklearn
+
+### C++
+- [x] Qt
+- [x] OpenMp Lib.
+- [x] thread Lib.
+- [x] pthread Lib.
+
+## My 2022 Goals
+### Python
+- [2/10] Sklearn
 - [ ] Open Cv
 - [ ] .. .
+
 
 
 
