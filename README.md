@@ -20,7 +20,7 @@
 
 ## My 2021 Goals
 
-<img align="right" src="img/mario.gif" width="280">
+<img align="right" src="img/YellowBoy.gif" width="280">
 
 ### Python
 - [x] OOP in Python
