@@ -4,7 +4,7 @@
 
 ## Scripting & Programming Language Skills
 
-<img align="right" src="img/chart.gif" width="280">
+<img align="right" src="img/BearAndBull.gif" width="280">
 
 * Python, R
 * SQL
