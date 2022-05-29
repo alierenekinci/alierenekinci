@@ -4,7 +4,6 @@
 
 ## Scripting & Programming Language Skills
 
-<img align="right" src="img/BearAndBull.gif" width="280">
 
 * Python, R
 * SQL
@@ -19,8 +18,6 @@
 
 
 ## My 2021 Goals
-
-<img align="right" src="img/YellowBoy.gif" width="280">
 
 ### Python
 - [x] OOP in Python
