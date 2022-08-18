@@ -4,6 +4,7 @@
 
 ## Scripting & Programming Language Skills
 
+<img align="right" src="img/BearAndBull.gif" width="280">
 
 * Python, R
 * SQL
@@ -18,6 +19,8 @@
 
 
 ## My 2021 Goals
+
+<img align="right" src="img/YellowBoy.gif" width="280">
 
 ### Python
 - [x] OOP in Python
@@ -35,9 +38,13 @@
 
 ## My 2022 Goals
 ### Python
-- [2/10] Sklearn
-- [ ] Open Cv
-- [ ] .. .
+- [x] Sklearn
+- [x] gensim
+- [x] mallet for gensim
+- [x] nltk
+- [x] tomotopy
+- [x] xgboost
+- [ ] .. . 
 
 
 
