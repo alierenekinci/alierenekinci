@@ -40,9 +40,10 @@
 - [ ] .. . 
 
 
-
+<br>
 
 ## Quick Links
+
 [www.alierenekinci.com](https://www.alierenekinci.com) / [alierenekinci.github.io](https://alierenekinci.github.io)
 
 
