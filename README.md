@@ -4,11 +4,11 @@
 </p>
 
 
-### 😶‍🌫️ My Experince
+### 😶‍🌫️ My Experience
 
 <img align="right" src="img/BearAndBull.gif" width="280">
 
-<strong> Lang: </strong> Python, C++, Javasript, Vue
+<strong> Lang: </strong> Python, C++, Javascript, Vue
 
 <strong>Tech:</strong> OOP in Python, Numpy, Scipy, Matplotlib, Seaborn, Pandas, Qt, OpenMp Lib., thread Lib., pthread Lib., Sklearn, gensim, mallet for gensim, nltk, tomotopy, xgboost, requests, BeatifulSoup4, Or-Tools, Vue
 
