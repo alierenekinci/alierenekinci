@@ -15,8 +15,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ### 😼 Quick Links
 
 [www.alierenekinci.com](https://www.alierenekinci.com) / [alierenekinci.github.io](https://alierenekinci.github.io)
