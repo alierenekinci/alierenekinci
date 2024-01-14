@@ -3,16 +3,20 @@
 </pre>
 </p>
 
-
 ### 😶‍🌫️ My Experience
 
 <img align="right" src="img/BearAndBull.gif" width="280">
 
 <strong> Lang: </strong> Python, C++, Javascript, Vue
 
-<strong>Tech:</strong> OOP in Python, Numpy, Scipy, Tensorflow, Sklearn, Pandas, Matplotlib, Seaborn, Qt, OpenMp Lib., thread Lib., pthread Lib., arduino pico, degz suibo rp2040, , gensim, mallet for gensim, nltk, tomotopy, xgboost, requests, BeatifulSoup4, Or-Tools, Vue
+<strong>Tech:</strong> OOP in Python, Numpy, Scipy, Tensorflow, Sklearn, Pandas, Matplotlib, Seaborn, Qt, OpenMp Lib., thread Lib., pthread Lib., arduino pico, degz suibo rp2040, gensim, mallet for gensim, nltk, tomotopy, xgboost, requests, BeatifulSoup4, Or-Tools, Vue
 
 <br>
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ### 😼 Quick Links
 
