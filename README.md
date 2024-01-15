@@ -1,4 +1,6 @@
-<p ><pre align="left">
+<img align="center" src="img/alierenekinci.png">
+
+<p><pre align="left">
 <strong style="font-size=22px">👨‍💻 Ali Eren Ekinci /</strong> <a href="https://www.alierenekinci.com">Homepage</a> / <a href="https://twitter.com/aliereneknci">Twitter</a> / <a href="https://www.linkedin.com/in/alierenekinci/">LinkedIn</a> / <a href="https://www.kaggle.com/alierenekinci">Kaggle</a>
 </pre>
 </p>
