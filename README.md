@@ -11,7 +11,7 @@
 
 <strong> Lang: </strong> Python, C++, Javascript, Vue
 
-<strong> Tech:</strong> OOP in Python, Numpy, Scipy, Tensorflow, Sklearn, Pandas, Matplotlib, Seaborn, Qt, OpenMp Lib., thread Lib., pthread Lib., arduino pico, degz suibo rp2040, gensim, mallet for gensim, nltk, tomotopy, xgboost, requests, BeatifulSoup4, Or-Tools, Vu
+<strong> Tech:</strong> OOP in Python, Numpy, Scipy, Tensorflow, Sklearn, Pandas, Matplotlib, Seaborn, Qt, OpenMp Lib., thread Lib., pthread Lib., arduino pico, degz suibo rp2040, gensim, mallet for gensim, nltk, tomotopy, xgboost, requests, BeatifulSoup4, Or-Tools, Vue
 
 
 ### 😼 Quick Links
